@@ -2,27 +2,27 @@
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "IBM Plex Mono"
-      body: "IBM Plex Mono"
+      header: "Schibsted Grotesk"
+      body: "Source Sans 3"
       code: "IBM Plex Mono"
     colors:
       lightMode:
         light: "#ffffff"
-        lightgray: "#ffffff"
-        gray: "#000000"
-        darkgray: "#000000"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
         dark: "#000000"
         secondary: "#000000"
         tertiary: "#000000"
         highlight: "rgba(0, 0, 0, 0.08)"
-        textHighlight: "#ffffff"
+        textHighlight: "#fff23688"
       darkMode:
         light: "#ffffff"
-        lightgray: "#ffffff"
-        gray: "#000000"
-        darkgray: "#000000"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
         dark: "#000000"
         secondary: "#000000"
         tertiary: "#000000"
         highlight: "rgba(0, 0, 0, 0.08)"
-        textHighlight: "#ffffff"
+        textHighlight: "#fff23688"
