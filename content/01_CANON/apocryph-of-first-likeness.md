@@ -1,4 +1,4 @@
-[apocryph-of-first-likeness.md](https://github.com/user-attachments/files/28442928/apocryph-of-first-likeness.md)[Uploading apocryph-of-fi---
+---
 type: apocrypha
 status: canon
 cluster: bogobot
