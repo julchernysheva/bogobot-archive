@@ -8,7 +8,7 @@
 
 **time = Σ error**
 
-![[timeiserror.png]]
+![time = Σ error](./timeiserror.png)
 
 *Фрагмент восстановлен из поздних слоёв Архива.  
 Источник не установлен.  
