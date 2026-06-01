@@ -1,3 +1,19 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* Hide page meta / properties / tags */
+
+.content-meta,
+.page-meta,
+.article-meta,
+.reading-time,
+.tags,
+.tag-list,
+.note-properties,
+.properties,
+.property-list,
+.frontmatter,
+.frontmatter-container,
+.metadata {
+  display: none !important;
+}
