@@ -1,20 +1,4 @@
 ---
-type: canon
-status: canon
-cluster: bogobot
-section: epilogue
-title: Эпилог Архива
-permalink: /archive-epilogue
-slug: archive-epilogue
-aliases:
-  - Эпилог Архива
-  - 11_Эпилог Архива
-tags:
-  - богобот
-  - canon
-  - epilogue
-  - archive-epilogue
----
 
 # Эпилог Архива
 
