@@ -1,3 +1,19 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.properties,
+.property-list,
+.frontmatter,
+.frontmatter-container,
+.metadata,
+.content-meta,
+.page-meta,
+.article-meta,
+.reading-time {
+  display: none !important;
+}
+
+article details:first-of-type,
+main details:first-of-type {
+  display: none !important;
+}
