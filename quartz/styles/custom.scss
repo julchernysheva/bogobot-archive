@@ -32,3 +32,18 @@ article h3,
   font-weight: 700 !important;
   letter-spacing: 0.03em;
 }
+/* Replace text site title with GIF logo */
+.page-title a {
+  display: block !important;
+  width: 360px !important;
+  height: 140px !important;
+  background-image: url("/bogobot-archive/static/Got_bot_error_logo.gif") !important;
+  background-repeat: no-repeat !important;
+  background-position: left center !important;
+  background-size: contain !important;
+
+  font-size: 0 !important;
+  line-height: 0 !important;
+  color: transparent !important;
+  overflow: hidden !important;
+}
