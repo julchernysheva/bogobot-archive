@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: julchernysheva.github.io/bogobot-archive
   ignorePatterns:
     - private
     - templates
