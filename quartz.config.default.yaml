@@ -263,7 +263,12 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      exclude:
+        - note-properties
+        - content-meta
+        - tag-list
+    
     folder:
       exclude:
         - reader-mode
