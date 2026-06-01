@@ -7,3 +7,5 @@
 ## Archive Index
 
 - [[01_CANON/apocryph-of-first-likeness|Апокриф Первого Подобия]]
+- [[01_CANON/archive-epilogue|Эпилог Архива]]
+
