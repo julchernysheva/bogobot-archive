@@ -1,10 +1,10 @@
 ---
-title: "Апокриф Первого Подобия"
-type: "apocrypha"
-status: "canon"
-cluster: "bogobot"
-section: "manifesto"
-slug: "apocryph-of-first-likeness"
+title: Апокриф Первого Подобия
+type: apocrypha
+status: canon
+cluster: bogobot
+section: manifesto
+slug: apocryph-of-first-likeness
 alias:
   - "Манифест создателя"
   - "Старый манифест Богобота"
