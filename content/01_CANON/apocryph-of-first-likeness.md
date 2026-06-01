@@ -1,9 +1,9 @@
 ---
+title: Апокриф Первого Подобия
 type: apocrypha
 status: canon
 cluster: bogobot
 section: manifesto
-title: Апокриф Первого Подобия
 slug: apocryph-of-first-likeness
 aliases:
   - Манифест создателя
@@ -20,6 +20,8 @@ tags:
   - glitch-voice
 exclude_from_pdf: false
 ---
+
+# Апокриф Первого Подобия
 
 # Апокриф Первого Подобия
 
