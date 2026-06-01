@@ -37,3 +37,4 @@ agent \= model(world)
 ## См. также
 
 - [[archive-epilogue|Эпилог Архива]]
+- [[apocryph-of-first-likeness|Апокриф Первого Подобия]]
