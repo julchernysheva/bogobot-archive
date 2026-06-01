@@ -50,7 +50,7 @@ plugins:
         - git
         - filesystem
     order: 10
-    - source: github:quartz-community/syntax-highlighting
+  - source: github:quartz-community/syntax-highlighting
     enabled: true
     options:
       theme:
@@ -58,18 +58,6 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
-
-  - source: github:quartz-community/frontmatter
-    enabled: true
-    order: 25
-
-  - source: github:quartz-community/obsidian-flavored-markdown
-    enabled: true
-    options:
-      enableInHtmlEmbed: false
-      enableCheckbox: true
-    order: 30
-    
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
