@@ -4,6 +4,7 @@ status: canon
 cluster: bogobot
 section: epilogue
 title: Эпилог Архива
+permalink: /archive-epilogue
 slug: archive-epilogue
 aliases:
   - Эпилог Архива
