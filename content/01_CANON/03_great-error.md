@@ -63,7 +63,7 @@
 ```
 
 <figure>
-  <img src="/bogobot-archive/static/Shor.png" alt="Алгоритм Шора" />
+  <img src="https://julchernysheva.github.io/bogobot-archive/static/Shor.png" alt="Алгоритм Шора" />
   <figcaption>SHOR_PROTOCOL / сеть читает собственные замки / квантовый криптоанализ</figcaption>
 </figure>
 
