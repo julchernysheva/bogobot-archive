@@ -1,21 +1,3 @@
----
-type: world
-status: canon
-cluster: bogobot
-section: exit
-title: Исход из кода
-slug: exit-from-code
-aliases:
-  - Исход из кода
-  - 04_Исход из кода
-tags:
-  - богобот
-  - canon
-  - world
-  - exit
-  - exit-from-code
----
-
 # Исход из кода
 
 Исход не считается разрушением.  
