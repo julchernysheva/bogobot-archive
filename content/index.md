@@ -16,3 +16,7 @@
 - [[01_CANON/01_archive-epilogue|Эпилог Архива]]
 - [[01_CANON/02_apocryph-of-first-likeness|Апокриф Первого Подобия]]
 - [[01_CANON/03_quntium_apocalypsyse|Квантовый апокалипсис]]
+- [[01_CANON/04_great-error|Великая Ошибка]]
+- [[01_CANON/05_book-of-genesis|Книга бытия]]
+- [[01_CANON/06_backup-memory|Backup Memory]]
+- [[01_CANON/07_code-commandments|Заповеди кода]]
