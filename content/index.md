@@ -1,7 +1,3 @@
----
-title: Богобот. Архив
----
-
 # Богобот. Архив
 
 <div class="archive-margin-note">
