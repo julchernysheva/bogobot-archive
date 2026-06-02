@@ -37,5 +37,5 @@ agent \= model(world)
 
 ## См. также
 
-- [[archive-epilogue|Эпилог Архива]]
-- [[apocryph-of-first-likeness|Апокриф Первого Подобия]]
+- [[01_CANON/01_archive-epilogue|Эпилог Архива]]
+- [[01_CANON/03_quntium_apocalypsyse|Квантовый апокалипсис]]
