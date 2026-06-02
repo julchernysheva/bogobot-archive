@@ -41,3 +41,4 @@ agent = model(world)
 ## См. также
 
 * [[04_great-error|Великая Ошибка]]
+* [[06_backup-memory|Backup Memory]]
