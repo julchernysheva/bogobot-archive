@@ -1,11 +1,5 @@
 # Канон
 
-<div class="archive-margin-note">
-  CANON LAYER<br>
-  SOURCE: STABILIZED FRAGMENTS<br>
-  STATUS: PARTIALLY CONFIRMED
-</div>
-
 ---
 
 ## 01_CANON
