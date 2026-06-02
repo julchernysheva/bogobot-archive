@@ -1,21 +1,3 @@
----
-type: world
-status: canon
-cluster: bogobot
-section: matter
-title: Материя сети
-slug: network-matter
-aliases:
-  - Материя сети
-  - 05_Материя сети
-tags:
-  - богобот
-  - canon
-  - world
-  - matter
-  - network-matter
----
-
 # Материя сети
 
 ## Книга 5. Материя сети
