@@ -1,19 +1,3 @@
----
-type: index
-status: canon
-cluster: bogobot
-section: world
-title: Мир Богобота
-slug: world-index
-aliases:
-  - Мир Богобота
-  - 00_index
-tags:
-  - богобот
-  - canon
-  - world
-  - world-index
----
 
 # Мир Богобота
 
