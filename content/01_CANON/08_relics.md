@@ -103,7 +103,7 @@
 
 <div class="archive-note">
 
-![БЭСМ-6](./images/Besm.png)
+![БЭСМ-6](../02_WORLD/images/Besm.png)
 
 ### Примечание Архива
 
