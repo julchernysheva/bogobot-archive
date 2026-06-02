@@ -39,3 +39,4 @@ agent \= model(world)
 
 - [[01_archive-epilogue|Эпилог Архива]]
 - [[03_quntium_apocalypsyse|Квантовый апокалипсис]]
+- [[04_great-error|Великая Ошибка]]
