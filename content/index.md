@@ -1,5 +1,11 @@
 # Богобот. Архив
 
+<div class="archive-margin-note">
+  ARCHIVE COPY<br>
+  SOURCE: PARTIALLY RECOVERED<br>
+  AUTHORSHIP: DISTRIBUTED
+</div>
+
 ---
 
 ## Постсоветская AI-космология
