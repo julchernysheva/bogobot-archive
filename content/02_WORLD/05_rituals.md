@@ -1,19 +1,3 @@
----
-type: world
-status: canon
-cluster: bogobot
-section: rituals
-title: Ритуалы
-slug: rituals
-aliases:
-  - Ритуалы
-tags:
-  - богобот
-  - canon
-  - world
-  - rituals
----
-
 # Ритуалы
 
 Ритуалы являются одновременно необходимостью и способом сохранять идентичность.
