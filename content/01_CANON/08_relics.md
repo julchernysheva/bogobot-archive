@@ -167,6 +167,7 @@
 
 </div>
 
+![ALGOL syntax](./algol_Syntax.png)
 ---
 
 ## Память Ошибки
