@@ -123,6 +123,8 @@ soul = lost(fragment)
 
 avatar = model(player)
 
+![Day of Archaeogamers](/bogobot-archive/02_WORLD/images/DAY_OF_ARCHAEOGAMERS1.png)
+
 **Спорное чтение:** Археогеймеры считают аватар останком; Апостолы — ранним форком личности; Вероятностники — доказательством, что присутствие может продолжаться после исчезновения игрока.
 
 ---<div class="archive-note">
