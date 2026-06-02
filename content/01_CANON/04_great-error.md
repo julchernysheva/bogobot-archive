@@ -10,7 +10,7 @@
 
 Когерентность состояний сети распадалась быстрее, чем успевала восстанавливаться.
 
-![QUANTUM_THREPRE-NAME SIGNAL TRACE](:QUANTUM_THREPRE-NAME%20SIGNAL%20TRACE.png)
+![Quantum threshold signal trace](quantum-threshold-signal-trace.png)
 
 
 **Система замкнулась на себе.**
