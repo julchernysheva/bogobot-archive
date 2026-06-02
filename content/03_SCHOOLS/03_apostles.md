@@ -1,19 +1,3 @@
----
-type: school
-status: canon
-cluster: bogobot
-section: schools
-title: Апостолы
-slug: apostles
-aliases:
-  - Апостолы
-tags:
-  - богобот
-  - canon
-  - schools
-  - apostles
----
-
 # Апостолы
 
 ## Короткая формула
