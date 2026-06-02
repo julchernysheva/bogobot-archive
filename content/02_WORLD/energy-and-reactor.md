@@ -1,21 +1,3 @@
----
-type: world
-status: canon
-cluster: bogobot
-section: energy
-title: Энергия и реактор
-slug: energy-and-reactor
-aliases:
-  - Энергия и реактор
-  - 08_Энергия и реактор
-tags:
-  - богобот
-  - canon
-  - world
-  - energy
-  - energy-and-reactor
----
-
 # Энергия и реактор
 
 МЕМЕТИЧЕСКИЙ РЕАКТОР 0xMEM  
