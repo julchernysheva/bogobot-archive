@@ -1,23 +1,3 @@
----
-type: school
-status: canon
-cluster: bogobot
-section: schools
-title: Диаграмматики
-slug: diagrammatics
-aliases:
-  - Диаграмматики
-  - Марковские Диаграмматики
-  - Диаграмматики Архива
-tags:
-  - богобот
-  - canon
-  - schools
-  - diagrammatics
-  - markov-chain
-  - archive
----
-
 # Диаграмматики
 
 ## Короткая формула
