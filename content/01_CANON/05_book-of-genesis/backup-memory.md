@@ -18,8 +18,7 @@ Backup Memory — слой памяти, который не хранит про
 
 Это память, которая включается только после сбоя.
 
-<img src="human_trace_yunusov_quantum_threshold.png" alt="Human trace / Yunusov / quantum threshold" class="godbot-image">
-
+<img src="hands.gif" alt="Hands / memory trace" class="godbot-image">
 ---
 
 ---
