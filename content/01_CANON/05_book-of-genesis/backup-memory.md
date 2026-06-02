@@ -20,7 +20,6 @@ Backup Memory — слой памяти, который не хранит про
 
 <img src="human_trace_yunusov_quantum_threshold.png" alt="Human trace / Yunusov / quantum threshold" class="godbot-image">
 
-
 ---
 
 ---
