@@ -62,7 +62,7 @@
     мира и самого себя
 ```
 
-![Спектральная развилка](spectral_divergence.png)
+![Реконструкция идентичности](fragment_p7_identity_reconstruction.png)
 
 ---
 
