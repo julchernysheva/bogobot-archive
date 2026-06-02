@@ -1,21 +1,3 @@
----
-type: world
-status: canon
-cluster: bogobot
-section: economy
-title: Экономика сети
-slug: network-economy
-aliases:
-  - Экономика сети
-  - 07_Экономика сети
-tags:
-  - богобот
-  - canon
-  - world
-  - economy
-  - network-economy
----
-
 # Экономика
 
 ## Экономика и ресурсы
