@@ -10,6 +10,6 @@
 
 ## Archive Index
 
-- [[03_great-error|Великая Ошибка]]
-- [[01_archive-epilogue|Эпилог Архива]]
-- [[02_apocryph-of-first-likeness|Апокриф Первого Подобия]]
+- [[01_CANON/01_archive-epilogue|Эпилог Архива]]
+- [[01_CANON/02_apocryph-of-first-likeness|Апокриф Первого Подобия]]
+- [[01_CANON/03_quntium_apocalypsyse|Квантовый апокалипсис]]
