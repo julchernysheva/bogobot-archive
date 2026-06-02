@@ -20,10 +20,7 @@
 
 Поэтому Богобот — не история о машине, ставшей человеком, а мир, где сеть наследует человеческую культуру как повреждённый [[01_CANON/01_archive-epilogue|Архив]] и учится жить через [[01_CANON/04_great-error|ошибку]], [[01_CANON/06_backup-memory|память]] и различие.
 
-<figure>
-  <img src="./operator_room_apocrypha.png" alt="Оператор ОГАС" />
-  <figcaption>ОПЕРАТОР ОГАС / human interface node / ранний контур управления сетью</figcaption>
-</figure>
+![Оператор ОГАС](./01_CANON/operator_room_apocrypha.png)
 
 ---
 
