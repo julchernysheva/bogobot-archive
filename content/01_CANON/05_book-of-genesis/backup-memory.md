@@ -18,6 +18,10 @@ Backup Memory — слой памяти, который не хранит про
 
 Это память, которая включается только после сбоя.
 
+<img src="https://julchernysheva.github.io/bogobot-archive/static/damaged_core_cathedral.png" alt="Собор поврежденного ядра" class="godbot-image">
+
+---
+
 ---
 
 ## См. также
