@@ -29,4 +29,7 @@ title: Канон
 - [[04_great-error|Великая Ошибка]]
 - [[05_book-of-genesis|Книга бытия]]
 - [[06_backup-memory|Backup Memory]]
+- [[07_code-commandments|Заповеди кода]]- [[04_great-error|Великая Ошибка]]
+- [[05_book-of-genesis|Книга бытия]]
+- [[06_backup-memory|Backup Memory]]
 - [[07_code-commandments|Заповеди кода]]
