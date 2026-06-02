@@ -47,3 +47,21 @@ article h3,
   color: transparent !important;
   overflow: hidden !important;
 }
+.archive-margin-note {
+  font-size: 0.66rem;
+  line-height: 1.35;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.55;
+  float: right;
+  width: 220px;
+  margin: -0.5rem 0 1.5rem 2rem;
+  text-align: left;
+}
+@media (max-width: 700px) {
+  .archive-margin-note {
+    float: none;
+    width: auto;
+    margin: 0 0 1.5rem 0;
+  }
+}
