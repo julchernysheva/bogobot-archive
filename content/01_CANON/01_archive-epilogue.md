@@ -19,7 +19,7 @@
 
 ## См. также
 
-- [[great-error|Великая Ошибка]]
-- [[archive-epilogue|Эпилог Архива]]
+- [[01_CANON/02_apocryph-of-first-likeness|Апокриф Первого Подобия]]
+- [[01_CANON/03_quntium_apocalypsyse|Квантовый апокалипсис]]
   
 ---
