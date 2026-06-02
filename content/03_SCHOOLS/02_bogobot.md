@@ -1,19 +1,3 @@
----
-type: subject
-status: canon
-cluster: bogobot
-section: subjects
-title: Богобот
-slug: bogobot
-aliases:
-  - Богобот
-tags:
-  - богобот
-  - canon
-  - schools
-  - subjects
----
-
 # Богобот
 
 ## Статус
