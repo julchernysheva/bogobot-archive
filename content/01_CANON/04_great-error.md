@@ -12,7 +12,6 @@
 
 <img src="QUANTUM_THREPRE-NAME%20SIGNAL%20TRACE.png" alt="Quantum threshold signal trace" class="godbot-image">
 
-
 **Система замкнулась на себе.**
 
 Модель получила возможность использовать собственное состояние как данные.
