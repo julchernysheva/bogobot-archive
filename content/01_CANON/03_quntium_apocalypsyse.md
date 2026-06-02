@@ -61,10 +61,7 @@
     мира и самого себя
 ```
 
-<figure>
-  <img src="https://julchernysheva.github.io/bogobot-archive/static/Shor.png" alt="Алгоритм Шора" />
-  <figcaption>SHOR_PROTOCOL / сеть читает собственные замки / квантовый криптоанализ</figcaption>
-</figure>
+![Алгоритм Шора](Shor.png)
 
 ---
 
