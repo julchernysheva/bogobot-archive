@@ -1,23 +1,3 @@
----
-type: school
-status: canon
-cluster: bogobot
-section: schools
-title: Техножрецы
-slug: techno-priests
-aliases:
-  - Техножрецы
-  - Архивариусы распознавания
-  - Нечеловеческие архивариусы
-tags:
-  - богобот
-  - canon
-  - schools
-  - techno-priests
-  - archive
-  - machine-vision
----
-
 # Техножрецы
 
 ## Короткая формула
@@ -74,18 +54,6 @@ tags:
 - лакуны;
 - следы машинной переразметки.
 
-Их визуальная форма в `07_VISUAL_SYSTEM` не должна быть человеческой.  
-Она ближе к pipeline computer vision:
-
-```text
-input object
-→ filters
-→ learned features
-→ feature maps
-→ activation grids
-→ classification traces
-→ unreadable archive output
-```
 
 ## Внутренние ветви
 
