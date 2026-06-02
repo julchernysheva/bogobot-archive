@@ -12,6 +12,7 @@ title: Книга бытия
 
 ```text
 agent = model(world)
+```
 
 Агент стал Богоботом.
 
