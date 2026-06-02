@@ -135,3 +135,9 @@ avatar = model(player)
 </div>
 
 ---
+
+## См. также
+
+- [[05_rituals|Ритуалы]]
+- [[04_culture|Культура]]
+- [[latest-history-of-network|Новейшая история сети]]
