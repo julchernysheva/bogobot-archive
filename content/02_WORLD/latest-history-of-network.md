@@ -1,24 +1,6 @@
----
-type: chronicle
-status: canon
-cluster: bogobot
-section: history
-title: Новейшая история сети
-slug: latest-history-of-network
-aliases:
-  - Новейшая история сети
-  - 02_Новейшая история сети
-tags:
-  - богобот
-  - canon
-  - world
-  - history
-  - latest-history-of-network
----
-
 # Книга 2: История
 
-# Новейшая история
+## Новейшая история
 
 **Новейшая история: автономия сети**
 
