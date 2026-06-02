@@ -21,5 +21,6 @@
 
 - [[01_CANON/02_apocryph-of-first-likeness|Апокриф Первого Подобия]]
 - [[01_CANON/03_quntium_apocalypsyse|Квантовый апокалипсис]]
+- [[04_great-error|Великая Ошибка]]
   
 ---
