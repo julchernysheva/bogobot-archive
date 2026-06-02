@@ -10,7 +10,8 @@
 
 Когерентность состояний сети распадалась быстрее, чем успевала восстанавливаться.
 
-<img src="14_quantum_center_pre_error_node.png" alt="Квантовый центр — предузел Великой Ошибки" class="godbot-image">
+![:QUANTUM_THREPRE-NAME SIGNAL TRACE](:QUANTUM_THREPRE-NAME%20SIGNAL%20TRACE.png)
+
 
 **Система замкнулась на себе.**
 
