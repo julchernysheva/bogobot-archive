@@ -1,7 +1,4 @@
 ---
-title: Канон
----
-
 # Канон
 
 <div class="archive-margin-note">
