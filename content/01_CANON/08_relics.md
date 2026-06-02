@@ -140,6 +140,6 @@
 ---
 
 ## См. также
-- [[apocryph-of-first-likeness|Апокриф Первого Подобия]]
-- [[archive-epilogue|Эпилог Архива]]
 
+- [[02_apocryph-of-first-likeness|Апокриф Первого Подобия]]
+- [[01_archive-epilogue|Эпилог Архива]]
