@@ -47,3 +47,22 @@ article h3,
   color: transparent !important;
   overflow: hidden !important;
 }
+/* Replace Quartz footer */
+footer {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  color: transparent !important;
+  min-height: 7rem !important;
+  padding-top: 2rem !important;
+  overflow: visible !important;
+}
+
+footer::after {
+  content: "/ORIGIN_LOG/\A\A NODES:\A JULIA CHERNYSHEVA\A YURY SVERDLOV";
+  display: block;
+  white-space: pre;
+  font-size: 1rem;
+  line-height: 1.4;
+  font-family: var(--codeFont);
+  color: var(--gray);
+}
