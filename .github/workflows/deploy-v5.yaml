@@ -45,7 +45,7 @@ jobs:
         run: npx quartz build -d content -v
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
@@ -59,4 +59,4 @@ jobs:
     steps:
       - name: Publish artifact to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
