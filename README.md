@@ -1,17 +1,31 @@
-# Quartz v5
+# Bogobot Archive
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A creative lore / worldbuilding project — the archive of **Bogobot**, its schools,
+agents, and the network civilization after the Great Error.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🌐 **Live site:** https://julchernysheva.github.io/bogobot-archive
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+**About the project:** https://www.artisyou.ru/projects/godbot
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+<img src="image.png" alt="Bogobot Archive" width="400" />
 
-## Sponsors
+The content lives in [`content/`](content/) as Markdown:
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- `01_CANON/` — canonical stories and lore
+- `02_WORLD/` — worldbuilding (economy, culture, calendar, history…)
+- `03_SCHOOLS/` — schools, agents, functions, and social roles of nodes
+
+## Local development
+
+```bash
+npm ci                         # install dependencies
+npx quartz plugin install      # install community plugins
+npx quartz build --serve       # dev server at http://localhost:8080
+```
+
+## Built with Quartz
+
+This site is built on [**Quartz v5**](https://quartz.jzhao.xyz/), a static-site
+generator for digital gardens by [jackyzha0](https://github.com/jackyzha0). The Quartz
+engine (`quartz/`) is MIT-licensed — see [`LICENSE.txt`](LICENSE.txt). The content under
+`content/` is © Julia Chernysheva.

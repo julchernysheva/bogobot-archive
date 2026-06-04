@@ -267,7 +267,7 @@ layout:
         - note-properties
         - content-meta
         - tag-list
-    
+
     folder:
       exclude:
         - reader-mode

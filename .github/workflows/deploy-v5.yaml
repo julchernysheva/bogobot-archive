@@ -1,4 +1,4 @@
-name: Deploy v5 to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -11,51 +11,52 @@ permissions:
   pages: write
   id-token: write
 
+# Only one Pages deployment at a time; let an in-flight one finish.
 concurrency:
   group: github-pages
   cancel-in-progress: false
 
 jobs:
   build:
+    name: Build site
     runs-on: ubuntu-latest
-    name: Build Quartz
     steps:
-      - name: Checkout
+      - name: Check out repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # full history so git-based page dates work
 
-      - name: Setup Node
+      - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
           node-version: 24
           cache: npm
 
-      - name: Install dependencies
+      - name: Install npm dependencies
         run: npm ci
 
-      - name: Install Quartz plugins
+      - name: Install Quartz community plugins
         run: npx quartz plugin install
 
-      - name: Check types and style
+      - name: Type-check and check formatting
         run: npm run check
 
-      - name: Build Quartz
+      - name: Build static site
         run: npx quartz build -d content -v
 
-      - name: Upload GitHub Pages artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: public
 
   deploy:
+    name: Publish to GitHub Pages
     runs-on: ubuntu-latest
-    name: Deploy to GitHub Pages
     needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy artifact to GitHub Pages
+      - name: Publish artifact to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
